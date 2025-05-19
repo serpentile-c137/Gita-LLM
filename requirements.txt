@@ -2,3 +2,7 @@ PyMuPDF
 datasets
 huggingface_hub
 dotenv
+transformers
+torch
+torchvision
+torchaudio
