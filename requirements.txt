@@ -1,1 +1,4 @@
 PyMuPDF
+datasets
+huggingface_hub
+dotenv
