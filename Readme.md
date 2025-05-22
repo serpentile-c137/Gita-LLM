@@ -111,7 +111,7 @@ This project is **not a substitute for professional mental health care**. It is 
 
 ## 📜 License
 
-This project is open-sourced under the [MIT License](LICENSE).
+This project is open-sourced under the [Apache License](LICENSE).
 
 ## 🤝 Contributing
 
